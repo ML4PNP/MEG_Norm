@@ -44,7 +44,7 @@ Normative modeling has recently been put forward to characterize heterogeneity w
 
 - Furthermore, we introduced a dimensional approach to characterize heterogeneity across PD patients, treating abnormalities as a spectrum rather than categorical distinctions.  
 <p align="center">
-  <img src="images/z_scores_scatter.pdf" alt="z scores scatter plot" width="260"/>
+  <img src="images/z_scores_scatter.png" alt="z scores scatter plot" width="320"/>
 </p>
 
 
