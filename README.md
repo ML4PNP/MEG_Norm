@@ -35,7 +35,7 @@ Normative modeling has recently been put forward to characterize heterogeneity w
 ### Steps
 
 - We first preprocessed the recordings and isolated periodic activity in the power spectrum. Features (relative theta, alpha, beta, and gamma power) were extracted and averaged across sensors.  
-  ![Flowchart](images/f_IDP_eaxtraction.png)
+  ![Flowchart](images/flowchart.png)
 
 - We compared two HBR models: **Non-linear, heteroscedastic, and non-Gaussian**, and **Linear, homoscedastic, and Gaussian**, using a range of model diagnostics. Our results showed better performance for the non-linear, heteroscedastic, and non-Gaussian model.
 
@@ -43,7 +43,10 @@ Normative modeling has recently been put forward to characterize heterogeneity w
   ![Anomaly detection](images/anomaly_detection.png)
 
 - Furthermore, we introduced a dimensional approach to characterize heterogeneity across PD patients, treating abnormalities as a spectrum rather than categorical distinctions.  
-  ![z scores scatter plot](images/z_scores_scatter.tiff)
+<p align="center">
+  <img src="images/z_scores_scatter.tiff" alt="z scores scatter plot" width="180"/>
+</p>
+
 
 - To support individual-level interpretation, we developed **Individual-level Neuro-Oscillo Charts (I-NOCs)**—visual tools that quantify and display individual deviations, enabling personalized assessment of functional brain dynamics.  
   ![I-NOCs](images/I-NOCs.png)
