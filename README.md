@@ -43,10 +43,10 @@ Normative modeling has recently been put forward to characterize heterogeneity w
   ![Anomaly detection](images/anomaly_detection.png)
 
 - Furthermore, we introduced a dimensional approach to characterize heterogeneity across PD patients, treating abnormalities as a spectrum rather than categorical distinctions.  
-  ![z scores scatter plot](images/z_scores_scatter.png)
+  ![z scores scatter plot](images/z_scores_scatter.tiff)
 
 - To support individual-level interpretation, we developed **Individual-level Neuro-Oscillo Charts (I-NOCs)**—visual tools that quantify and display individual deviations, enabling personalized assessment of functional brain dynamics.  
-  ![I-NOCs](images/I-NOCs.png.png)
+  ![I-NOCs](images/I-NOCs.png)
 
 ---
 
