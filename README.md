@@ -123,6 +123,10 @@ Use the MEG_Norm_sequential.ipynb notebook to run the pipeline sequentially. Not
 ### Parallel Execution
 Use MEG_Norm_parallel.ipynb to run steps in parallel. This notebook uses SLURM for job scheduling.
 
+### Reproducing figures
+All figures in the paper can be reproduced by running figures_replication_code.ipynb. The required data are provided in the data folder, which contains numerical source data for each graph.
+
+
 ## References
 Mohammad Zamanzadeh and Seyed Mostafa Kia. ML4PNP/MGaNorm: First public release, May 2025. URL https://doi.org/10.5281/zenodo.15441320.
 
